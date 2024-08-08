@@ -1,6 +1,6 @@
 # Laptops Specs by Rating and Price - Exploratory and Inferential Data Analysis
 
-Phase 2 Project during my time at Flatiron School. This is an exploratory data analysis (EDA) and inferential analysis using Python, analyzing a data set laptops from different brands and their respective specs, price, and ratings.
+Phase 2 Project during my time at Flatiron School. This is an exploratory data analysis (EDA) and inferential analysis using Python, analyzing a data set of laptops from different brands and their respective specs, price, and ratings.
 
 - **[Documents](./documents):** includes PDF documents of the inferential EDA and slides used in class presentation.
 
